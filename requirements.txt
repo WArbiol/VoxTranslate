@@ -1,0 +1,8 @@
+pyaudio
+torch
+torchaudio
+openai-whisper
+numpy
+transformers
+sentencepiece
+sacremoses
