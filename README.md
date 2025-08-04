@@ -28,8 +28,6 @@
   <img src="https://github.com/user-attachments/assets/8fc18480-c85d-4d62-88fa-a24aa45984a1" alt="VoxTranslate in Action Demo">
 </p>
 
-> **Note:** To create a GIF demo like the one above, you can use free tools like [ScreenToGif](https://www.screentogif.com/) (Windows) or [Giphy Capture](https://giphy.com/apps/giphycapture) (macOS).
-
 ## ✨ Features
 
 - **Real-time Translation**: Speak in one language and see the translation appear on the screen instantly.
